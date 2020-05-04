@@ -8,6 +8,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public class Email {
+	//修改邮件实体类注释
 	//主题
 	private String subject;
 	
